@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Responsive-Gallery/static/css/main.ce94c9df.css",
+    "main.js": "/Responsive-Gallery/static/js/main.96a7471b.js",
+    "index.html": "/Responsive-Gallery/index.html",
+    "main.ce94c9df.css.map": "/Responsive-Gallery/static/css/main.ce94c9df.css.map",
+    "main.96a7471b.js.map": "/Responsive-Gallery/static/js/main.96a7471b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce94c9df.css",
+    "static/js/main.96a7471b.js"
+  ]
+}
